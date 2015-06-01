@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://sudden-break.github.io
+title: My little dev world
+email: ibu2002@gmail.com
+author: Andreas Hubenthal
+description: A blog/link list about everything dev related that i like or recommend
+paginate: 3
+google_analytics: 
